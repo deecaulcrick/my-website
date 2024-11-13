@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <img width="100%" class="project__image" src="images/${project.image}" alt="${project.title}" />
         <h5>${project.tag}</h5>
         <div class="arrowBox">
-          <img src="/images/Arrow.svg" alt="Arrow" width="20px" />
+          <img src="images/Arrow.svg" alt="Arrow" width="20px" />
         </div>
       `;
 

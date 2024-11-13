@@ -21,7 +21,7 @@ body {
   background-color: var(--background-color);
   color: var(--color);
   height: 100vh;
-  cursor: url("/images/cursor-reg.svg"), auto;
+  cursor: url("images/cursor-reg.svg"), auto;
 }
 h1,
 h2,
@@ -32,7 +32,7 @@ p {
   font-family: var(--body-font);
 }
 a {
-  cursor: url("/images/cursor-point.svg"), auto;
+  cursor: url("images/cursor-point.svg"), auto;
   color: var(--color);
   text-decoration: none;
 }
@@ -117,7 +117,7 @@ header h3 {
   .hero button {
     height: 80px;
     width: 80px;
-    cursor: url("/images/cursor-reg.svg"), auto;
+    cursor: url("images/cursor-reg.svg"), auto;
     font-size: 12px;
     margin-top: -30px;
     margin-left: 0px;
@@ -163,7 +163,7 @@ header h3 {
   font-family: var(--heading-font);
   border-bottom: 0.8px solid var(--color);
   padding: 20px;
-  cursor: url("/images/cursor-point.svg"), auto;
+  cursor: url("images/cursor-point.svg"), auto;
   transition: background-color 0.8s, color 0.8s;
 }
 .footer sup {
@@ -193,7 +193,7 @@ header h3 {
   .footer li {
     font-size: 4.5em;
     padding: 10px;
-    cursor: url("/images/curser-point.svg"), auto;
+    cursor: url("images/curser-point.svg"), auto;
   }
   .footer sup {
     font-size: 12px;
@@ -229,7 +229,7 @@ header h3 {
   color: var(--background-color);
   border-color: var(--background-color);
   transition: background-color 0.8s, color 0.8s;
-  cursor: url("/images/cursor-point.svg"), auto;
+  cursor: url("images/cursor-point.svg"), auto;
 }
 
 .project:hover h5,
